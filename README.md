@@ -3,12 +3,17 @@
 📜 Projects Included
 
 🌟 JavaScript Projects
+
 1️⃣ To-Do List – A sleek task manager with add & delete functionality.
+
 2️⃣ Image Slider – A simple image carousel with next & previous buttons.
+
 3️⃣ Profile Card – A stylish personal profile UI with social media links.
 
 ☕ Java Projects
+
 4️⃣ Anagram Checker – Checks if two words are anagrams using string manipulation.
+
 5️⃣ Employee Management System – A simple OOP-based system with employee details.
 
 🛠️ Tech Stack
